@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+.logo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 50px 0;
+  width: 100%;
+}
+
+.titleinitial {
+  font-family: 'Orbitron', Arial, sans-serif;
+  font-size: 4.5em;
+  color: #ffd800;
+  letter-spacing: -1px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 20px;
+}
+
+.subtitle {
+  font-family: 'Orbitron', Arial, sans-serif;
+  font-size: 1em;
+  color: #ffffff;
+  text-align: center;
+  line-height: 1.2;
+}
+
+.innovation {
+  color: #ffd800;
+}
+
+// ... (il resto del codice SCSS rimane invariato)
+.vinyl-o {
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  width: 0.8em;
+  height: 0.8em;
+  border-radius: 50%;
+  background-color: #ffd800;
+  margin: 0 0.1em;
+  position: relative;
+  cursor: pointer;
+  box-shadow: 0 4px 0 rgba(0, 0, 0, 0.3);
+  
+  &::before {
+    content: '';
+    position: absolute;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    background-color: #000;
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    width: 20%;
+    height: 20%;
+    border-radius: 50%;
+    background-color: #ffd800;
+  }
+  
+  .vinyl-inner {
+    color: transparent;
+    font-size: 0.8em;
+  }
+  
+  animation: spin 5s linear infinite;
+  
+  &:hover {
+    animation: spin 1s linear infinite;
+  }
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

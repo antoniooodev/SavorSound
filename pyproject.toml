@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "mopidy-iris-dev"
+version = "0.1.0"
+description = ""
+authors = ["antoniooodev <antoniotangaro@icloud.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mopidy = "^3.4.2"
+mopidy-iris = {path = "Iris", develop = true}
+anaconda = "^0.0.1.1"
+mopidy-mpd = "^3.3.0"
+gobject = "^0.1.0"
+pygobject = "^3.48.2"
+mopidy-local = "^3.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
