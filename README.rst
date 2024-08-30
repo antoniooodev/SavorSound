@@ -1,7 +1,7 @@
-SoundFood-webplayer
+SoundFood Music Player
 ####
 
-**SoundFood-webplayer** is a project developed for **SoundFood**, an innovative company that redefines the dining experience through personalized sound integration. This web player, based on Mopidy, is designed to provide restaurants with the ability to create exclusive sound bubbles for each table, transforming every meal into a unique sensory experience.
+**SoundFood-musicplayer** is a project developed for **SoundFood**, an innovative company that redefines the dining experience through personalized sound integration. This web player, based on Mopidy, is designed to provide restaurants with the ability to create exclusive sound bubbles for each table, transforming every meal into a unique sensory experience.
 
 What is SoundFood?
 ********
