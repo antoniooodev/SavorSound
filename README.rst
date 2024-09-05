@@ -34,11 +34,6 @@ To set up and start using SoundFood-webplayer:
 2. **Debugging**: [Troubleshooting Tools](link_to_documentation)
 3. **Issues and Requests**: [Reporting Guide](link_to_documentation)
 
-Screenshot
-********
-
-![Screenshot of SoundFood-webplayer](link_to_your_screenshot)
-
 Contributions
 ********
 
