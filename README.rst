@@ -30,7 +30,7 @@ Getting Started
 
 To set up and start using SoundFood-webplayer:
 
-1. **Installation**: [Installation Guide](link_to_documentation)
+1. **Installation**: [Installation Guide](https://github.com/antoniooodev/SoundFood-musicplayer/wiki/Getting-Started#installation-steps)
 2. **Debugging**: [Troubleshooting Tools](link_to_documentation)
 3. **Issues and Requests**: [Reporting Guide](link_to_documentation)
 
