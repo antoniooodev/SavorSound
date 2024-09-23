@@ -1,7 +1,7 @@
-SoundFood Music Player
+SavorSound Music Player
 ####
 
-**SoundFood-musicplayer** is a project developed for **SoundFood**, an innovative company that redefines the dining experience through personalized sound integration. This web player, based on Mopidy, is designed to provide restaurants with the ability to create exclusive sound bubbles for each table, transforming every meal into a unique sensory experience.
+**SavorSound** is a project developed for **SoundFood**, an innovative company that redefines the dining experience through personalized sound integration. This web player, based on Mopidy, is designed to provide restaurants with the ability to create exclusive sound bubbles for each table, transforming every meal into a unique sensory experience.
 
 What is SoundFood?
 ********
@@ -20,7 +20,7 @@ Features
 Requirements
 ********
 
-To run SoundFood-webplayer, you will need:
+To run SavorSound, you will need:
 
 - **Mopidy**: The core of the music system.
 - **Mopidy-Local** (optional): For managing local music.
@@ -28,7 +28,7 @@ To run SoundFood-webplayer, you will need:
 Getting Started
 ********
 
-To set up and start using SoundFood-webplayer:
+To set up and start using SavorSound:
 
 1. **Installation**: `Installation Guide <https://github.com/antoniooodev/SoundFood-musicplayer/wiki/Getting-Started#installation-steps>`_
 2. **Debugging**: 
@@ -46,7 +46,7 @@ SoundFood is a constantly evolving project, and we welcome new contributions:
 Authors
 ********
 
-SoundFood-webplayer is developed and maintained by Antonio Tangaro. Feel free to contact us for questions, suggestions, or collaborations.
+SavorSound is developed and maintained by Antonio Tangaro. Feel free to contact us for questions, suggestions, or collaborations.
 
 License
 ********
