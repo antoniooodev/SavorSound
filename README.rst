@@ -32,7 +32,7 @@ To set up and start using SavorSound:
 
 1. **Installation**: `Installation Guide <https://github.com/antoniooodev/SoundFood-musicplayer/wiki/Getting-Started#installation-steps>`_
 2. **Debugging**: 
-3. **Issues and Requests**: 
+3. **Issues and Requests**: `Issues <https://github.com/antoniooodev/SavorSound/wiki/Support>`_
 
 Contributions
 ********
